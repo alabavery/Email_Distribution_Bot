@@ -1,7 +1,7 @@
 This is a bot used by a large activist organization.
 
 A few things are needed to start using the bot:
-1. install the python libraries needed (sorry, still need to compile a list of what those are)
+1. install python
 2. Save your voters as a csv to the project directory with columns/headers as follows:
     - Name
     - Street_Address
